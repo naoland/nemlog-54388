@@ -201,6 +201,8 @@ Go言語は[クロスコンパイル](https://e-words.jp/w/%E3%82%AF%E3%83%AD%E3
 
 ## 関連情報へのリンク
 
+- [簡単プログラミング！ 日英単語をサクッと調べられるツールを作ってみよう](https://github.com/naoland/nemlog-54388) github
+- [簡単プログラミング！ 日英単語をサクッと調べられるツールを作ってみよう](https://nemlog.nem.social/blog/54388) nemlog
 - [英和辞典・和英辞典 - Weblio辞書](https://ejje.weblio.jp/)
 - [carの意味・使い方・読み方 | Weblio英和辞書](http://ejje.weblio.jp/content/car)
 - [alecthomas/kingpin: CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser](https://github.com/alecthomas/kingpin)
